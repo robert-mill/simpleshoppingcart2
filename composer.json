@@ -1,4 +1,8 @@
 {
+
+  "require": {
+    "classes/simpleshoppingcart2": "*"
+  },
   "autoload":{
     "psr-4": {
       "simpleshoppingcart2\\":"src"
